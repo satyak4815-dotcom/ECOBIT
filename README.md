@@ -37,7 +37,7 @@ ECOBIT transforms raw company ESG data into actionable sustainability intelligen
 
 <br><br>
 
-<img src="https://github.com/user-attachments/assets/e014dc66-d71f-4ab8-8e3e-32080af93409" width="800" alt="ECOBIT ESG Dashboard" />
+<img src="https://github.com/user-attachments/assets/666a672a-49c7-4c08-99bc-7a1f18f068d1" width="800" alt="ECOBIT ESG Copilot" />
 
 <br><br>
 

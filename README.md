@@ -24,11 +24,29 @@ ECOBIT transforms raw company ESG data into actionable sustainability intelligen
 ### 📸 Screenshots
 <!-- Add screenshots or GIFs of key features here -->
 <!-- Example: ![Dashboard Overview](./screenshots/dashboard.png) -->
-<img width="832" height="1600" alt="WhatsApp Image 2026-08-16 at 3 49 11 PM" src="https://github.com/user-attachments/assets/523c02e5-2c98-495e-b8fb-770c165ab883" />
-> <img width="1862" height="838" alt="Screenshot 2026-08-16 153415" src="https://github.com/user-attachments/assets/4b373e80-ec62-418e-acc0-4b961ebbd382" />
- <img width="1854" height="854" alt="Screenshot_16-8-2026_153928_ecobit-alpha vercel app" src="https://github.com/user-attachments/assets/e9a956c9-8141-4c9c-b003-70fc1c9b905c" />
-<img width="1869" height="864" alt="Screenshot_16-8-2026_153519_ecobit-alpha vercel app" src="https://github.com/user-attachments/assets/e014dc66-d71f-4ab8-8e3e-32080af93409" />
-<img width="1610" height="645" alt="Screenshot_16-8-2026_153955_ecobit-alpha vercel app" src="https://github.com/user-attachments/assets/756c4c2b-ba4b-4807-8beb-eec7ffbca302" />
+<h2 align="center">🌱 ECOBIT — Platform Preview</h2>
+
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/523c02e5-2c98-495e-b8fb-770c165ab883" width="300" alt="ECOBIT Mobile Interface" />
+
+<br><br>
+
+<img src="https://github.com/user-attachments/assets/4b373e80-ec62-418e-acc0-4b961ebbd382" width="800" alt="ECOBIT Dashboard" />
+
+<br><br>
+
+<img src="https://github.com/user-attachments/assets/e9a956c9-8141-4c9c-b003-70fc1c9b905c" width="800" alt="ECOBIT ESG Intelligence" />
+
+<br><br>
+
+<img src="https://github.com/user-attachments/assets/e014dc66-d71f-4ab8-8e3e-32080af93409" width="800" alt="ECOBIT ESG Dashboard" />
+
+<br><br>
+
+<img src="https://github.com/user-attachments/assets/756c4c2b-ba4b-4807-8beb-eec7ffbca302" width="750" alt="ECOBIT Analytics" />
+
+</div>
 
 
 

@@ -21,9 +21,6 @@ ECOBIT transforms raw company ESG data into actionable sustainability intelligen
 <!-- Replace YOUR_VERCEL_URL_HERE with the actual Vercel deployment URL -->
 > **Live Demo:** [🔗 EcoBit](https://ecobit-alpha.vercel.app/)
 
-### 📸 Screenshots
-<!-- Add screenshots or GIFs of key features here -->
-<!-- Example: ![Dashboard Overview](./screenshots/dashboard.png) -->
 <h2 align="center">🌱 ECOBIT — Platform Preview</h2>
 
 <div align="center">

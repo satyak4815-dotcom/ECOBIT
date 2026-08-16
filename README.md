@@ -21,10 +21,6 @@ ECOBIT transforms raw company ESG data into actionable sustainability intelligen
 <!-- Replace YOUR_VERCEL_URL_HERE with the actual Vercel deployment URL -->
 > **Live Demo:** [🔗 ADD YOUR VERCEL DEPLOYED LINK HERE](YOUR_VERCEL_URL_HERE)
 
-### 📹 Demo Video
-<!-- Replace with your hackathon demo video link -->
-> [Add hackathon demo video link here]
-
 ### 📸 Screenshots
 <!-- Add screenshots or GIFs of key features here -->
 <!-- Example: ![Dashboard Overview](./screenshots/dashboard.png) -->
@@ -488,14 +484,6 @@ ECOBIT is an analytical intelligence and reporting tool. It does **not** constit
 
 ---
 
-## 👥 Team
-
-<!-- Add your team member details here -->
-| Name | Role | GitHub |
-|---|---|---|
-| [Your Name] | [Your Role] | [@your_github](https://github.com/your_github) |
-
----
 
 ## 📄 License
 
